@@ -86,7 +86,7 @@ endmodule
 #### Truth table:
 ![231407101-5618f48d-83ed-41bc-9b3a-265d9d5fcaf8](https://github.com/AJAYASWIN-M/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118679692/bd14331f-f887-45d1-8488-bb1a46804350)
 
-#### RTL
+#### Waveform
 ![Screenshot (52)](https://github.com/AJAYASWIN-M/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118679692/d96093a1-0e04-4729-9561-e62bd8a89f7f)
 
 ### Result:
